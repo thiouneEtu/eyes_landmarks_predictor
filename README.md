@@ -23,3 +23,5 @@ However, just because facial landmarks are the most popular type of shape predic
 To learn how to train your own dlib shape predictor, just see the code above !
 
 [project under development]
+
+<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/result.png" width="500" />
