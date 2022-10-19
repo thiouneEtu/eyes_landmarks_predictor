@@ -24,4 +24,3 @@ To learn how to train your own dlib shape predictor, just see the code above !
 
 [project under development]
 
-<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/result.PNG" width="500" />
