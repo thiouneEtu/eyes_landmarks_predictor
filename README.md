@@ -26,3 +26,19 @@ To learn how to train your own dlib shape predictor, just see the code above !
 
 ## Experimentations
 
+<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland1.PNG" width="500" />
+
+<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland2.PNG" width="500" />
+
+<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland3.PNG" width="500" />
+
+<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland4.PNG" width="500" />
+
+<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland5.PNG" width="500" />
+
+<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland6.PNG" width="500" />
+
+<img src="https://github.com/thiouneEtu/eyes_landmarks_predictor/blob/main/eyesland7.PNG" width="500" />
+
+
+
